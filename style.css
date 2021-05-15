@@ -15,8 +15,10 @@ header {
   background-color: pink;
   height: 70px;
   display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
-header a {
-  background-color: powderblue;
+header img {
+  background-color: blueviolet;
 }
